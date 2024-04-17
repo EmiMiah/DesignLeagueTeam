@@ -6,4 +6,5 @@
 h1{font family: "questrial", san serif}
 *, ::before, ::after{margin:0; padding:0; box-sizing: border-box;}
 :root{--accent-color: #34495e; --bg-color: #ecf0f1; --main-font: "Questrial", sans-serif; --sub-font: "arial", sans-srif; --g-ratio: 1.618; }
-body{font-family: var(--sub-font); font-weight: 300; background-color: var(--bg-color); color: #111; font-size: 1.2em; }
+body{font-family: var(--sub-font); font-weight: 300; background-color: var(--bg-color); color: #111; font-size: 1.2em; } 
+hr {margin-top: 0.5rem; width: 70px; height
