@@ -4,4 +4,5 @@
   font-style: normal;
 }
 h1{font family: "questrial", san serif}
-
+*, ::before, ::after{margin:0; padding:0; box-sizing: border-box;}
+:root{--accent-color: #34495e; --bg-color: #ecf0f1; --main-font: "Questrial", sans-serif; --sub-font: "arial", sans-srif; --g-ratio: 1.618; }
